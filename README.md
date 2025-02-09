@@ -22,7 +22,7 @@ CODEALPHA Bug Bounty is a web-based platform that allows users to report and tra
    - Move the project folder to the `htdocs` directory (for XAMPP) or `www` directory (for WAMP).
 
 3. **Database Configuration** 🗃️
-   - Open `phpMyAdmin` and create a new database (e.g., `bug_bounty_db`).
+   - Open `phpMyAdmin` and create a new database (e.g., `bug_bounty.db`).
    - Click on the "Import" tab 📂.
    - Select the SQL file (if provided) and click "Go" ✅ to import the database schema.
    - Configure database credentials in `db_config.php`:
@@ -30,7 +30,7 @@ CODEALPHA Bug Bounty is a web-based platform that allows users to report and tra
      $servername = "localhost";
      $username = "root";
      $password = "";
-     $dbname = "bug_bounty_db";
+     $dbname = "bug_bounty.db";
      ```
 
 4. **Start the Server** 🚦
