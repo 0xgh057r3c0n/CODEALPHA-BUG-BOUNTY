@@ -13,8 +13,8 @@ CODEALPHA Bug Bounty is a web-based platform that allows users to report and tra
 ## Installation 💻
 1. **Clone or Download the Repository** 📥
    ```sh
-   git clone https://github.com/0xgh057r3c0n/codealpha-bug-bounty.git
-   cd codealpha-bug-bounty
+   git clone https://github.com/0xgh057r3c0n/CODEALPHA-BUG-BOUNTY.git
+   cd CODEALPHA-BUG-BOUNTY
    ```
 
 2. **Set Up a Local Server** 🌐
